@@ -1,0 +1,47 @@
+.filter_warp {
+  font-family: "微软雅黑";
+}
+.filter_warp h3 {
+  font-size: 20px;
+  margin-bottom: 20px;
+}
+.filter_warp .cl {
+  clear: both;
+}
+.filter_warp .typefilter ul {
+  list-style: none;
+}
+.filter_warp .typefilter ul li {
+  float: left;
+  font-size: 14px;
+  padding: 3px 5px;
+  border: 1px solid #fff;
+  margin-right: 8px;
+  cursor: pointer;
+}
+.filter_warp .typefilter ul li.cur {
+  background-color: #eee;
+  color: #000;
+}
+.filter_warp .colorfilter {
+  margin-top: 20px;
+}
+.filter_warp .colorfilter h4 {
+  margin-bottom: 20px;
+}
+.filter_warp .colorfilter ul {
+  list-style: none;
+}
+.filter_warp .colorfilter ul li {
+  float: left;
+  width: 34px;
+  height: 24px;
+  border: 1px solid #fff;
+  margin-right: 6px;
+}
+.filter_warp .colorfilter ul li.cur {
+  border: 5px solid purple;
+  box-sizing: content-box;
+  position: relative;
+  top: -4px;
+}
