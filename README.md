@@ -1,4 +1,6 @@
 # react
+
+#项目中有大量图片  不到300M  
 #首先执行cnpm install安装依赖
 
 
